@@ -1,0 +1,6 @@
+@VeloSportStore.API_HostAddress = http://localhost:5182
+
+GET {{VeloSportStore.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
