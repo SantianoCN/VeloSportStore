@@ -7,7 +7,7 @@ namespace VeloSportStore.API.Infrastructure.Controllers
     [Route("/product")]
     public class ProductController : Controller
     {
-        [HttpGet("/product")]
+        [HttpGet("/products")]
         public ActionResult<string> Index()
         {
             return "index";

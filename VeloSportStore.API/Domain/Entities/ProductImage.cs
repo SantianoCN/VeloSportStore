@@ -1,4 +1,4 @@
-﻿namespace VeloSportStore.API.Domain
+﻿namespace VeloSportStore.API.Domain.Entities
 {
     public class ProductImage
     {
